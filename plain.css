@@ -1,0 +1,23 @@
+
+body {
+    background-color: #333 ;
+    text-decoration: none;
+
+
+}
+.container-list {
+    text-align: center;
+    margin-top: 16rem;
+  }
+  
+  ul {
+    display: inline-block;
+    text-align: left;
+  }
+  a{
+    text-decoration: none;
+  }
+  a,ul{
+    color: white;
+
+  }
